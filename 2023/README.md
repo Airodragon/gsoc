@@ -20,6 +20,7 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 - Kliiu
 - Krishna Dhakad
 - Manish Dhakal
+- Mihir Srivastava
 - Mehul Aggarwal
 - Piyush Srivastava
 - Priscilla Baah
